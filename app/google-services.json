@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "994141090957",
+    "project_id": "finaluri-1",
+    "storage_bucket": "finaluri-1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:994141090957:android:a22afe8a9f274f011bdec4",
+        "android_client_info": {
+          "package_name": "easy.tuto.fragmentebi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "994141090957-htb59q8091ah2keb0kjns4oudp3put6d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvZ5jTrJNVJh4bRtF-lRekYz8GC_5TyOw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "994141090957-htb59q8091ah2keb0kjns4oudp3put6d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
